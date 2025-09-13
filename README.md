@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&duration=4000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=Hi+👋,+I'm+Ashhad+Shamim;MERN+Stack+Developer+%7C+Lifelong+Learner" alt="Typing SVG" />
 </div>
 <br/>
-
+ 
 <p align="center">
   <a href="mailto:rebelanil885@gmail.com">
     <img src="https://img.shields.io/badge/Email-rebelanil885@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
