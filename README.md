@@ -7,7 +7,7 @@
  
 <p align="center">
   <a href="mailto:rebelanil885@gmail.com">
-    <img src="https://img.shields.io/badge/Email-rebelanil885@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
+    <img src="https://img.shields.io/badge/Email-shamimashhad44@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
   </a>
   <a href="https://www.linkedin.com/in/ashhad-shamim/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Ashhad_Shamim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
